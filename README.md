@@ -50,7 +50,7 @@ I want to be a person who gives you new wisdom. ✨
 
 |||
 |---|---|
-|<img src="./hire_me_zabombey.gif" width="253" height="190"/>|![WebcrazyDylan github stat](https://github-readme-stats.vercel.app/api?username=WebcrazyDylan&show_icons=true&hide_border=true&hide=&theme=aura)|
+|<img src="./hire_me_zabombey.gif" width="300" height="225"/>|![WebcrazyDylan github stat](https://github-readme-stats.vercel.app/api?username=WebcrazyDylan&show_icons=true&hide_border=true&hide=&theme=aura)|
 
 |||
 |---|---|
