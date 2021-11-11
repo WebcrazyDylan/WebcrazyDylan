@@ -50,8 +50,7 @@ I want to be a person who gives you new wisdom. ✨
 
 |||
 |---|---|
-|<img src="./hire_me_zabombey.gif" width="400" height="300"/>|[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WebcrazyDylan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-|
+|<img src="./hire_me_zabombey.gif" width="400" height="300"/>|![WebcrazyDylan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WebcrazyDylan&layout=compact)|
 
 |||
 |---|---|
@@ -61,6 +60,3 @@ I want to be a person who gives you new wisdom. ✨
 |---|---|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebcrazyDylan&repo=SpringBootJPA-guestbook&theme=material-palenight)](https://github.com/WebcrazyDylan/SpringBootJPA-guestbook)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebcrazyDylan&repo=insta-clone-native-expo-2021&theme=calm)](https://github.com/WebcrazyDylan/insta-clone-native-expo-2021)|
 
-
-
-![footer](https://capsule-render.vercel.app/api?type=egg&color=80D5C8&height=100&section=footer&animation=twinkling)
