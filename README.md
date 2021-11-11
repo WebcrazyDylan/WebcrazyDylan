@@ -52,7 +52,7 @@ I want to be a person who gives you new wisdom. ✨
 
 |||
 |---|---|
-|![WebcrazyDylan github stat](https://github-readme-stats.vercel.app/api?username=WebcrazyDylan&show_icons=true&hide_border=true&theme=aura)|![WebcrazyDylan top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=WebcrazyDylan&layout=compact&hide_border=true&theme=panda)| 
+|![WebcrazyDylan github stat](https://github-readme-stats.vercel.app/api?username=WebcrazyDylan&show_icons=true&hide_border=true&hide=contribs&theme=aura)|![WebcrazyDylan top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=WebcrazyDylan&layout=compact&hide_border=true&theme=panda)| 
 
 |||
 |---|---|
