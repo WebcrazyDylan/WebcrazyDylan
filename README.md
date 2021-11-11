@@ -50,7 +50,7 @@ I want to be a person who gives you new wisdom. ✨
 
 ||
 |---|
-|<center><img src="./trex.gif"/></center>|
+|<center><img src="./hire_me_zabombey.gif"/></center>|
 
 |||
 |---|---|
