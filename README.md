@@ -46,12 +46,10 @@ I want to be a person who gives you new wisdom. ✨
 </p>
 
 <p align="center">
-||
-|---|
-|<center><img src="./trex.gif"/></center>|
 
-|||
-|---|---|
+|----------------------------------------|
+|<center><img src="./trex.gif"/></center>|
+|----------------------------------------|
 |![lintang github stat](https://github-readme-stats.vercel.app/api?username=WebcrazyDylan&show_icons=true&hide_border=true&theme=vue)|![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=WebcrazyDylan&layout=compact&hide_border=true&theme=vue)| 
 
 </p>
