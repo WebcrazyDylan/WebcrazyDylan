@@ -21,7 +21,7 @@ I want to be a person who gives you new wisdom. ✨
   <br>
   <img src="https://img.shields.io/badge/-Oracle-lightgray"/>&nbsp
   <img src="https://img.shields.io/badge/-MongoDB-4FAA40"/>&nbsp  
-  <img src="https://img.shields.io/badge/-MS-SQL-9153C9"/>&nbsp  
+  <img src="https://img.shields.io/badge/-MSSQL-9153C9"/>&nbsp  
   <img src="https://img.shields.io/badge/-MySQL-navy"/>&nbsp
   <img src="https://img.shields.io/badge/-MariaDB-422BF8"/>&nbsp
   <br>
