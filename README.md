@@ -6,7 +6,7 @@
 I'm a web developer based in Vancouver. 🌱 <br>
 I want to be a person who gives you new wisdom. ✨
 </p>
-<h3 align="center">📚 Technology Stack 📚</h3>
+<h3 align="center">📚 Technology Skills 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-Spring-blueviolet"/>&nbsp
@@ -36,10 +36,13 @@ I want to be a person who gives you new wisdom. ✨
 <h3 align="center">•••</h3>
 
 <p align="center">
-  <a href="https://jonghuyun.cf/"><img src="https://img.shields.io/badge/Portfolio-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://jonghuyun.cf"/></a>&nbsp
-  <a href="https://www.linkedin.com/in/jonghyun-park-dylan/?locale=en_US"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://www.linkedin.com/in/jonghyun-park-dylan/?locale=en_US"/></a>&nbsp
+  <a href="https://jonghuyun.cf/"><img src="https://img.shields.io/badge/Portfolio-FA829D?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://jonghuyun.cf"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/jonghyun-park-dylan/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonghyun-park-dylan/?locale=en_US"/></a>&nbsp
   <a href="mailto:jonghyun.park.dylan@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonghyun.park.dylan@gmail.com"/></a>
-  
+</p>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWebcrazyDylan&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&color=80D5C8&height=100&section=footer)
