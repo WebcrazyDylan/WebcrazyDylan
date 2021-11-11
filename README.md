@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=8f52c8&height=190&section=header&text=JongHyun%20Park&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=8f52c8&height=190&section=header&text=JongHyun%20Park&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80&animation=twinkling)
 
 
 <h3 align="center"> 👋 Carpe Diem 👋 </h3>
@@ -45,4 +45,4 @@ I want to be a person who gives you new wisdom. ✨
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWebcrazyDylan&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=egg&color=80D5C8&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=egg&color=80D5C8&height=100&section=footer&animation=twinkling)
