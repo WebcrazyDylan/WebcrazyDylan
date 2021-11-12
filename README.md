@@ -50,11 +50,11 @@ I want to be a person who gives you new wisdom. ✨
 
 |||
 |---|---|
-|<img src="./hire_me_zabombey.gif" width="300" height="225"/>|![WebcrazyDylan github stat](https://github-readme-stats.vercel.app/api?username=WebcrazyDylan&show_icons=true&hide_border=true&hide=&theme=aura)|
+|<img src="./hire_me_zabombey.gif" width="300" height="200"/>|![WebcrazyDylan github stat](https://github-readme-stats.vercel.app/api?username=WebcrazyDylan&show_icons=true&hide_border=true&hide=&theme=aura)|
 
 |||
 |---|---|
-|![WebcrazyDylan top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=WebcrazyDylan&layout=&hide_border=true&theme=panda)|![WebcrazyDylan top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=WebcrazyDylan&layout=compact&hide_border=true&theme=panda)| 
+|![WebcrazyDylan top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=WebcrazyDylan&layout=&hide_border=true&theme=panda)|<img src="./full-stack-development.gif" width="500" height="280"/>| 
 
 |||
 |---|---|
