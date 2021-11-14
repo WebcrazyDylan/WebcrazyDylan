@@ -56,5 +56,5 @@ I want to be a person who gives you new wisdom. ✨
 
 |||
 |---|---|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebcrazyDylan&repo=SpringBootJPA-guestbook&theme=material-palenight)](https://github.com/WebcrazyDylan/SpringBootJPA-guestbook)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebcrazyDylan&repo=insta-clone-native-expo-2021&theme=calm)](https://github.com/WebcrazyDylan/insta-clone-native-expo-2021)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebcrazyDylan&repo=/SpringBootJPA-board&theme=material-palenight)](https://github.com/WebcrazyDylan/SpringBootJPA-guestbook)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebcrazyDylan&repo=insta-clone-native-expo-2021&theme=calm)](https://github.com/WebcrazyDylan/insta-clone-native-expo-2021)|
 
