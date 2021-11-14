@@ -60,5 +60,5 @@ I want to be a person who gives you new wisdom. ✨
 
 |||
 |---|---|
-|<img src="./full-stack-development.gif" height="260"/>|<img src="./rabbitPoleDance.webp"/>|
+|<img src="./full-stack-development.gif" height="280"/>|<img src="./rabbitPoleDance.webp"/>|
 
