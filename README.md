@@ -52,12 +52,12 @@ I want to be a person who gives you new wisdom. ✨
 
 |||
 |---|---|
-|![WebcrazyDylan top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=WebcrazyDylan&layout=&hide_border=true&theme=panda)|![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WebcrazyDylan)| 
+|![WebcrazyDylan top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=WebcrazyDylan&layout=&hide_border=true&theme=panda)|![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WebcrazyDylan&theme=shades-of-purple)| 
 
 |||
 |---|---|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebcrazyDylan&repo=SpringBootJPA-board&theme=material-palenight)](https://github.com/WebcrazyDylan/SpringBootJPA-guestbook)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebcrazyDylan&repo=insta-clone-native-expo-2021&theme=calm)](https://github.com/WebcrazyDylan/insta-clone-native-expo-2021)|
 
 <p align="center">
-<img src="./full-stack-development.gif" width="500" height="280"/>
+<img src="./full-stack-development.gif" />
 </p>
