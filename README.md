@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=8f52c8&height=190&section=header&text=JongHyun%20Park&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=8f52c8&height=190&section=header&text=JongHyun%20Park&fontColor=236FD7&fontAlignX=45&fontAlignY=65&fontSize=80&animation=twinkling)
 
 
 <h3 align="center"> 👋 Carpe Diem 👋 </h3>
