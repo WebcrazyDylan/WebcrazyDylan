@@ -36,9 +36,11 @@ I want to be a person who gives you new wisdom. ✨
 <h3 align="center">•••</h3>
 
 <p align="center">
-  <a href="https://jonghyunpark.shop/"><img src="https://img.shields.io/badge/Portfolio-FA829D?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://jonghuyun.cf"/></a>&nbsp
+  <a href="https://jonghyunpark.shop/"><img src="https://img.shields.io/badge/Portfolio-FA829D?style=flat-square&logo=D-Wave Systems&logoColor=white&link=jonghyunpark.shop"/></a>&nbsp
   <a href="https://www.linkedin.com/in/jonghyun-park-dylan/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jonghyun-park-dylan/?locale=en_US"/></a>&nbsp
+  <a href="https://www.canva.com/design/DAFvAxXFG7s/zJZ854M7Wh1mNQn_5_6ZTQ/watch?utm_content=DAFvAxXFG7s&utm_campaign=designshare&utm_medium=link&utm_source=editor"><img src="https://img.shields.io/badge/Resume-brightgreen?style=flat-square&logo=airplayvideo&logoColor=white&link=jonghyunpark.shop"/></a>
   <a href="mailto:jonghyun.park.dylan@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonghyun.park.dylan@gmail.com"/></a>
+  
 </p>
 
 
