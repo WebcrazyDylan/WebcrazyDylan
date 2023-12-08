@@ -13,6 +13,7 @@ I want to be a person who gives you new wisdom. ✨
   <img src="https://img.shields.io/badge/-React-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Node.js-green"/>&nbsp
   <img src="https://img.shields.io/badge/-PHP-E92D2E"/>&nbsp
+  <img src="https://img.shields.io/badge/-Laravel-red"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Spring Boot-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-JPA-E92D2E"/>&nbsp
